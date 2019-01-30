@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="57865" started-at="2018-10-03T19:21:46Z" finished-at="2018-10-03T19:22:44Z">
+  <suite name="Suite" duration-ms="46696" started-at="2019-01-30T09:55:09Z" finished-at="2019-01-30T09:55:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="57865" started-at="2018-10-03T19:21:46Z" finished-at="2018-10-03T19:22:44Z">
+    <test name="Test" duration-ms="46696" started-at="2019-01-30T09:55:09Z" finished-at="2019-01-30T09:55:56Z">
       <class name="com.Sample.Firstmavenproject.Testexcution">
-        <test-method status="PASS" signature="verify_launch()[pri:0, instance:com.Sample.Firstmavenproject.Testexcution@27efef64]" name="verify_launch" is-config="true" duration-ms="50284" started-at="2018-10-03T19:21:46Z" finished-at="2018-10-03T19:22:37Z">
+        <test-method status="PASS" signature="verify_launch()[pri:0, instance:com.Sample.Firstmavenproject.Testexcution@55ca8de8]" name="verify_launch" is-config="true" duration-ms="37555" started-at="2019-01-30T09:55:09Z" finished-at="2019-01-30T09:55:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_launch -->
-        <test-method status="PASS" signature="verify_login()[pri:0, instance:com.Sample.Firstmavenproject.Testexcution@27efef64]" name="verify_login" duration-ms="3635" started-at="2018-10-03T19:22:37Z" finished-at="2018-10-03T19:22:40Z">
+        <test-method status="PASS" signature="verify_login()[pri:0, instance:com.Sample.Firstmavenproject.Testexcution@55ca8de8]" name="verify_login" duration-ms="4701" started-at="2019-01-30T09:55:47Z" finished-at="2019-01-30T09:55:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_login -->
-        <test-method status="PASS" signature="verify_roleclick()[pri:1, instance:com.Sample.Firstmavenproject.Testexcution@27efef64]" name="verify_roleclick" duration-ms="1778" started-at="2018-10-03T19:22:40Z" finished-at="2018-10-03T19:22:42Z">
+        <test-method status="PASS" signature="verify_roleclick()[pri:1, instance:com.Sample.Firstmavenproject.Testexcution@55ca8de8]" name="verify_roleclick" duration-ms="2644" started-at="2019-01-30T09:55:51Z" finished-at="2019-01-30T09:55:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_roleclick -->
-        <test-method status="PASS" signature="verify_rolecreation()[pri:2, instance:com.Sample.Firstmavenproject.Testexcution@27efef64]" name="verify_rolecreation" duration-ms="1992" started-at="2018-10-03T19:22:42Z" finished-at="2018-10-03T19:22:44Z">
+        <test-method status="PASS" signature="verify_rolecreation()[pri:2, instance:com.Sample.Firstmavenproject.Testexcution@55ca8de8]" name="verify_rolecreation" duration-ms="1698" started-at="2019-01-30T09:55:54Z" finished-at="2019-01-30T09:55:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_rolecreation -->
       </class> <!-- com.Sample.Firstmavenproject.Testexcution -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
